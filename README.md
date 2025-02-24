@@ -6,7 +6,7 @@ This project is the backend API for a Netflix clone, built using Laravel, Redis,
 
 Here's a visual representation of the database schema:
 
-![Database Schema](img\schema.png)
+![Database Schema](https://github.com/AliAlYaman/Netflix-Backend/blob/efda265d08023562e1b3afaa9965c75d8e1f4a00/img/schema.png)
 
 ---
 
